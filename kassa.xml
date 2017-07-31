@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE response [
+	<!ELEMENT response ( code, message, date, authcode ) >
+	<!ELEMENT code ( #PCDATA )>
+	<!ELEMENT message ( #PCDATA )>
+	<!ELEMENT date ( #PCDATA )>
+	<!ELEMENT authcode ( #PCDATA )>
+]>
