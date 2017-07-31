@@ -12,7 +12,7 @@ body {
     display: block;
     width: 360px;
     height: 567px;
-    margin: 100px auto 0;
+    margin: 100px auto 100px;
     box-shadow: 0 0 65px 15px rgba(0, 0, 0, 0.2);
     overflow: hidden;
     border-radius: 3px;
