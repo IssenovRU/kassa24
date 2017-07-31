@@ -242,6 +242,7 @@ body {
     margin: 75px auto;
 }
 .copyright{
+    margin-top: 5px;
     color: #FFF;
     font-size: 18px;
 }
